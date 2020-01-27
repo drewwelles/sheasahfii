@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpahngai.nullsecurity.net/sitemap.xml
